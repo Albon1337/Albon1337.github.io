@@ -14,7 +14,7 @@ h1{
 }
 h3{
     color: white;
-    font-family: ArialRoundedMTBold;
+    font-family:  Arial, Helvetica, sans-serif;
     font-size: 160%;
     width: 100%;
     text-align: center;
@@ -31,7 +31,7 @@ p{
     margin-inline-start: 0px;
     margin-inline-end: 0;
     color: white;
-    font-family: ArialRoundedMTBold;
+    font-family: Arial, Helvetica, sans-serif;
     font-size: 140%;
     width: 100%;
     text-align: center;
