@@ -110,7 +110,7 @@ body{
 		padding:10px 18px;
 		box-shadow:0px 1px 1px rgba(0,0,0,0.15);
 		border-radius:3px;
-		background:#303030;
+		background:#e4bb4d;
 	}
 
 	.menu ul:after {
@@ -142,9 +142,9 @@ body{
 		display:inline-block;
 		box-shadow:0px 1px 1px rgba(0,0,0,0.15);
 		border-radius:3px;
-		background:#303030;
+		background:#e4bb4d;
 		text-shadow:0px 1px 0px rgba(0,0,0,0.5);
-		color:#777;
+		color:#1d1e25;
 		font-size:20px;
 		transition:color linear 0.15s;
 	}
@@ -180,10 +180,12 @@ h1{
 h3{
     color: white;
     font-family:  Arial, Helvetica, sans-serif;
-    font-size: 160%;
+    font-size: 140%;
     width: 100%;
     text-align: center;
+    
 }
+
 
 @font-face{
     font-family: ArialRoundedMTBold;
