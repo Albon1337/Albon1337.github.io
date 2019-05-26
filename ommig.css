@@ -17,14 +17,25 @@ p{
 	color: white;
 	text-align: center;
 }
-tr{
-	color: white;
-}
+
 h4{
 	color: white; 
 	text-align: center;
 
 }
+img{
+	position: relative;
+	top: 0;
+	left: 800px;
+}
+ol{
+	color: white; 
+	position: relative;
+	top: 0;
+	left: 820px;
+}
+
+
 
 /*----- Menu -----*/
 @media screen and (min-width: 860px) {
